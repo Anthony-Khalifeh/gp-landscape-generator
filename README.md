@@ -2,7 +2,7 @@
 
 
 activate it with
-
-conda env create -f environment.yml
-
+```
+conda env create -f environment-2.yml
 conda activate gp-landscape-generator
+```
